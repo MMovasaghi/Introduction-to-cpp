@@ -1,8 +1,3 @@
-**Contact:** 
-<br />
-(Telegram) https://t.me/Movaseghi
-<br />
-<br />
 # Projects
 There are some sample project for learnning more about c++ .
 <br />
