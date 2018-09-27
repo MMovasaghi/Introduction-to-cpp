@@ -1,12 +1,9 @@
-# Programming Foundations - Introduction to C++
-## Shahed University - 971
-## Dr.Bizhani
 **Contact:** 
 <br />
 (Telegram) https://t.me/Movaseghi
 <br />
 <br />
-## Projects
+# Projects
 There are some sample project for learnning more about c++ .
 <br />
 * [Project001](#project001)
