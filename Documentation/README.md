@@ -12,22 +12,22 @@ There are some sample project for learnning more about c++ .
 <br />
 
 ### Project001
-Sample Project : Hello World in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Project001.cpp) )
+Sample Project : Hello World in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project001.cpp) )
 
 ### Project002
-Sample Project : Input & Output in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Project002.cpp) )
+Sample Project : Input & Output in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project002.cpp) )
 
 ### Project003
-Sample Project : Different type of variable in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Project003.cpp) )
+Sample Project : Different type of variable in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project003.cpp) )
 
 ### Project004
-Sample Project : Calculate sum of two number ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Project004.cpp) )
+Sample Project : Calculate sum of two number ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project004.cpp) )
 
 ### Project005
-Sample Project : Compaire 2 number ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Project005.cpp) )
+Sample Project : Compaire 2 number ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project005.cpp) )
 
 ### Project006
-Sample Project : Compair 2 number with 0 ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Project006.cpp) )
+Sample Project : Compair 2 number with 0 ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project006.cpp) )
 
 ### Project007
-Sample Project : Small personal calculator ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Project007.cpp) )
+Sample Project : Small personal calculator ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project007.cpp) )
