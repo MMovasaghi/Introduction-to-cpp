@@ -1,20 +1,17 @@
 # Programming Foundations - Introduction to C++
 ## Shahed University - 971
 ## Dr.Bizhani
-**Contact:** 
-<br />
-(Telegram) https://t.me/Movaseghi
+**Contact:** (Telegram) https://t.me/Movaseghi
 <br />
 <br />
 **Contents:**
-* [Project001](#project001)
-* [Project002](#project002)
-* [Project003](#project003)
-* [Project004](#project004)
-* [Project005](#project005)
-* [Project006](#project006)
-* [Project007](#project007)
+* [Project001](#project001)    * [Project005](#project005)
+* [Project002](#project002)    * [Project006](#project006)
+* [Project003](#project003)    * [Project007](#project007)
+* [Project004](#project004)    * [Project008](#project008)
 
+## Projects
+There are some sample project for learnning more about c++ .
 ### Project001
 Sample Project : Hello World in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Project001.cpp) )
 
