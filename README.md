@@ -2,7 +2,11 @@
 ## Shahed University - 971
 ## Teacher : Dr. Bizhani
 ### TA : MH.Movasaghinia
-**Contact:** (Telegram) https://t.me/Movaseghi
+**Contact:** 
+<br />
+    (Telegram) https://t.me/Movaseghi
+<br />
+    (Gmail) mmghho77@gmail.com
 <br />
 <br />
 **Contents:**
