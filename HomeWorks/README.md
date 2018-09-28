@@ -8,6 +8,7 @@ Home works are some excersises for lernning programming better , so we have some
 
 <br />
 <br />
+
 **Solved Exercises:**
 <br />
 **A:**
