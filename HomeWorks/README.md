@@ -18,17 +18,3 @@ Home works are some excersices for lernning programming better , so we have some
 * [CHW001](#chw001)
 * [CHW002](#chw002)
 * [CHW003](#chw003)
-
-<br />
-
-## A level Home Works
-### AHW001
-Sample Project : Hello World in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project001.cpp) )
-
-## B level Home Works
-### BHW001
-Sample Project : Hello World in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project001.cpp) )
-
-## C level Home Works
-### CHW001
-Sample Project : Hello World in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project001.cpp) )
