@@ -5,9 +5,9 @@ Home works are some excersices for lernning programming better , so we have some
 ***Contents:***
 <br />
 **A:**
-* [AHW001](#hw001)
-* [AHW002](#hw002)
-* [AHW003](#hw003)
+* [AHW001](#ahw001)
+* [AHW002](#ahw002)
+* [AHW003](#ahw003)
 
 **B:**
 * [BHW001](#bhw001)
@@ -15,9 +15,9 @@ Home works are some excersices for lernning programming better , so we have some
 * [BHW003](#bhw003)
 
 **C:**
-* [CHW001](#bhw001)
-* [CHW002](#bhw002)
-* [CHW003](#bhw003)
+* [CHW001](#chw001)
+* [CHW002](#chw002)
+* [CHW003](#chw003)
 
 <br />
 
