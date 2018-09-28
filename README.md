@@ -12,4 +12,4 @@
 **Contents:**
 * [Book (C++ How To Programming)](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/Book)
 * [Home Works](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/HomeWorks#home-works)
-* [Educational Projects](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/Projects)
+* [Educational Projects](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/Projects#projects)
