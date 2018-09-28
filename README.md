@@ -10,6 +10,6 @@
 <br />
 <br />
 **Contents:**
-* [Book (C++ How To Programming)](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/Book)
+* [Book (C++ How To Programming)](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/Book#programming-foundations---introduction-to-c)
 * [Home Works](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/HomeWorks#home-works)
 * [Educational Projects](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/Projects#projects)
