@@ -1,6 +1,15 @@
 # Projects
 There are some sample project for learnning more about c++ .
 <br />
+
+## TA's Sample Projects
+
+<br />
+
+## Self Study Projects
+
+<br />
+
 * [Project001](#project001)
 * [Project002](#project002)
 * [Project003](#project003)
@@ -18,31 +27,31 @@ There are some sample project for learnning more about c++ .
 Sample Project : Hello World in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/SelfStudyP/Project001.cpp) )
 
 ### Project002
-Sample Project : Input & Output in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project002.cpp) )
+Sample Project : Input & Output in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/SelfStudyP/Project002.cpp) )
 
 ### Project003
-Sample Project : Different type of variable in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project003.cpp) )
+Sample Project : Different type of variable in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/SelfStudyP/Project003.cpp) )
 
 ### Project004
-Sample Project : Calculate sum of two number ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project004.cpp) )
+Sample Project : Calculate sum of two number ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/SelfStudyP/Project004.cpp) )
 
 ### Project005
-Sample Project : Compaire 2 number ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project005.cpp) )
+Sample Project : Compaire 2 number ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/SelfStudyP/Project005.cpp) )
 
 ### Project006
-Sample Project : Compair 2 number with 0 ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project006.cpp) )
+Sample Project : Compair 2 number with 0 ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/SelfStudyP/Project006.cpp) )
 
 ### Project007
-Sample Project : Small personal calculator ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project007.cpp) )
+Sample Project : Small personal calculator ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/SelfStudyP/Project007.cpp) )
 
 ### Project008
-Sample Project : Work with void functions ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project008.cpp) )
+Sample Project : Work with void functions ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/SelfStudyP/Project008.cpp) )
 
 ### Project009
-Sample Project : Work with returntypes functions ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project009.cpp) )
+Sample Project : Work with returntypes functions ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/SelfStudyP/Project009.cpp) )
 
 ### Project010
-Sample Project : Start working with classes ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project010.cpp) )
+Sample Project : Start working with classes ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/SelfStudyP/Project010.cpp) )
 
 ### Project011
-Sample Project : Sample Calculator with class ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project011.cpp) )
+Sample Project : Sample Calculator with class ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/SelfStudyP/Project011.cpp) )
