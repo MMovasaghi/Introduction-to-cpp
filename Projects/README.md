@@ -15,7 +15,7 @@ There are some sample project for learnning more about c++ .
 <br />
 
 ### Project001
-Sample Project : Hello World in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project001.cpp) )
+Sample Project : Hello World in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/SelfStudyP/Project001.cpp) )
 
 ### Project002
 Sample Project : Input & Output in C++ ( [See it](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/Project002.cpp) )
