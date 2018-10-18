@@ -1,12 +1,15 @@
 # Programming Foundations - Introduction to C++
 ## Shahed University - 971
 ## Teacher : Dr. Bizhani
-### TA : MH.Movaseghinia
+### TAs : MH.Movaseghinia_M.Momen
 **Contact:** 
 <br />
     (Telegram) https://t.me/Movaseghi
 <br />
+Movaseghinia:
     (Gmail) mmghho77@gmail.com
+Momen:
+    (Gmail)mezamo1376@hotmail.com
 <br />
 <br />
 **Contents:**
