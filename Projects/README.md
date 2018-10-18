@@ -5,6 +5,7 @@ There are some sample project for learnning more about c++ .
 ## TA's Sample Projects
 
 * [Part001](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/TAP/Part1.rar)
+* [Part002](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/TAP/Part2.rar)
 
 <br />
 
