@@ -12,11 +12,7 @@ Home works are some excersises for lernning programming better , so we have some
 
 **Solved Exercises:**
 <br />
-**A:**
-* [AHW001](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/HomeWorks/AHW/001)
-
-**B:**
-* [BHW001](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/HomeWorks/BHW/001)
-
-**C:**
-* [CHW001](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/HomeWorks/CHW/001)
+**HW1:**
+* [AHW001](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/HomeWorks/HW1/Answers/AHW)
+* [BHW001](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/HomeWorks/HW1/Answers/BHW)
+* [CHW001](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/HomeWorks/HW1/Answers/CHW)
