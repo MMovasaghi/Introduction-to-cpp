@@ -24,3 +24,13 @@ Home works are some excersises for lernning programming better , so we have some
 **HW2:**
 * [AHW002](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/HomeWorks/HW2/Answers/AHW)
 * [BHW002](https://github.com/MMovasaghi/Introduction-to-cpp/tree/master/HomeWorks/HW2/Answers/BHW)
+
+**HW4:**
+* [AHW001](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/HomeWorks/HW4/Answers/HW4_A_1.cpp)
+* [AHW002](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/HomeWorks/HW4/Answers/HW4_A_2.cpp)
+* [AHW003](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/HomeWorks/HW4/Answers/HW4_A_3.cpp)
+* [BHW001](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/HomeWorks/HW4/Answers/HW4_B_1.cpp)
+* [BHW002](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/HomeWorks/HW4/Answers/HW4_B_2.cpp)
+* [BHW003](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/HomeWorks/HW4/Answers/HW4_B_3.cpp)
+* [CHW001](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/HomeWorks/HW4/Answers/HW4_C_1.cpp)
+* [CHW002](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/HomeWorks/HW4/Answers/HW4_C_2.cpp)
