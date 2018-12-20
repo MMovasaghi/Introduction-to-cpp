@@ -12,6 +12,7 @@ Home works are some excersises for lernning programming better , so we have some
 * [HW5](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/HomeWorks/HW5/HW5.pdf)
 * [HW6](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/HomeWorks/HW6/HW6.pdf)
 * [Term-Project](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/HomeWorks/TermProject/TermProject.pdf)
+* [HW7](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/HomeWorks/HW7/HW7.pdf)
 
 <br />
 <br />
