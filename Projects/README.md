@@ -10,6 +10,8 @@ There are some sample project for learnning more about c++ .
 * [Part004](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/TAP/Ex.cpp)
 * [Part005](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/TAP/EX.zip)
 * [Creating Windows Form Application C++ With Visual Studio](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Documents/CreateCLR.pdf)
+* [File Processing](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/FileProcessing.cpp)
+* [Pre Term Exam](https://github.com/MMovasaghi/Introduction-to-cpp/blob/master/Projects/TermExam96.cpp)
 <br />
 
 ## Self Study Projects
