@@ -60,7 +60,7 @@ int main()
 	do
 	{ //menu
 		system("cls");
-		cout <<" The Term Exam of Shahed University | 1396 | 2018 |\n\n\tMH.Movaseghinia | Uni Num. : 962164002\n"
+		cout <<" The Term Exam of Shahed University \n"
 		<<"\n\nChose one thing :\n\n 1. OddSum function \n\n 2. Concat function \n\n 3. Save function\n\n 4. Exit \n\n : ";
 		cin>>chose;
 		if (chose==1)
