@@ -3,9 +3,6 @@
 ## Teacher : Dr. Bizhani
 ### TAs : MH.Movaseghinia & M.Momen
 **Contact:** 
-<br />
-    (Telegram) https://t.me/Movaseghi
-<br />
 Movaseghinia:
     (Gmail) mmghho77@gmail.com
 <br />
